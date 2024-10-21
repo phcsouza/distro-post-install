@@ -4,14 +4,14 @@ Script de pós instalação de distros baseadas no Debian (gerenciador de pacote
 
 ## Como usar
 
-###Debian
+### Debian
 Execute o comando abaixo no terminal
 
 ```shell
 sudo bash debian-post-install.sh
 ```
 
-###Solus
+### Solus
 Execute o comando abaixo no terminal
 
 ```shell
